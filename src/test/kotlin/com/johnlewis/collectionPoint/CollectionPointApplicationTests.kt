@@ -1,9 +1,7 @@
 package com.johnlewis.collectionPoint
 
+import com.johnlewis.collectionPoint.v1.CollectionPointApplication
 import org.junit.Test
-
-//@RunWith(SpringRunner::class)
-//@SpringBootTest
 class CollectionPointApplicationTests {
 
 	@Test
