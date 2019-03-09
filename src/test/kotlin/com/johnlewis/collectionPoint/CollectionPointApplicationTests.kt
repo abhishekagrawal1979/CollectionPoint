@@ -5,7 +5,8 @@ import org.junit.Test
 class CollectionPointApplicationTests {
 
 	@Test
-	fun contextLoads() {
+	fun `this is my first test`() {
+
 	}
 
 }
