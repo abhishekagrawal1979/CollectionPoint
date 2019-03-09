@@ -7,6 +7,8 @@ class CollectionPointApplicationTests {
 	@Test
 	fun `this is my first test`() {
 
+
+
 	}
 
 }
